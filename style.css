@@ -1,0 +1,43 @@
+body {
+    background-color: #212;
+    color: #f3f3f3;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    letter-spacing: 0.5em;
+    font-size: 3rem;
+    text-align: center;
+    padding: 2em;
+}
+
+.hover {
+    color: #f3e414;
+    text-decoration-line: line-through;
+}
+.enter {
+    font-size: 2em;
+    text-align: center;
+}
+
+.friend {
+    font-size: 10em;
+    color: #d82d82;
+    text-transform: uppercase;
+}
+
+.aubergine {
+    transition: 3s;
+    /* background-image: url(https://www.compo.be/.imaging/focus/dam/global/plants/eggplant-aubergine.jpg/jcr:content.jpeg?x=62&y=66&lastModified=Fri+Apr+16+22%3A59%3A24+CEST+2021&width=472&height=354); */
+    color: #212;
+    background-color: #d82d82;
+}
+
+img {
+    margin-left: 45%;
+    margin-top: 10em;
+    max-width: 10rem;
+    border-radius: 5rem;
+   
+}
